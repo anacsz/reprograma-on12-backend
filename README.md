@@ -133,6 +133,7 @@ somar<br>
 resultado<br>
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.<br>
+
 digite um numero<br>
 divida o numero por 2<br>
 se o resto da divisão for 0 <br>
