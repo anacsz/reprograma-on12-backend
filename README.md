@@ -124,7 +124,7 @@ morto abaixa<br>
 quem errar sai da brincadeira<br>
 o ultimo que restar vence.<br>
 
-7. Faça um algoritmo que some três números.
+7. Faça um algoritmo que some três números.<br>
 informe primeiro numero<br>
 informe o segundo numero<br>
 informe o 3 numero<br>
@@ -132,8 +132,29 @@ pegue o primeiro + segundo + terceiro numero<br>
 somar<br>
 resultado<br>
 
-8. Faça um algoritmo que descubra se um número é par ou ímpar.
+8. Faça um algoritmo que descubra se um número é par ou ímpar.<br>
+digite um numero<br>
+divida o numero por 2<br>
+se o resto da divisão for 0 <br>
+escreva par<br>
+se o resto da divisão for diferente de 0<br>
+escreva impar <b>
 
-9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.<br>
 
-10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+armazenar nota 1<br>
+armazenar nota 2<br>
+somar as notas<br>
+mostrar resultado da soma<br>
+dividir o resultado da soma por 2<br>
+mostrar o resultado<br>
+se o valor do resultado foi maior ou igual a 5 aprovado<br>
+senão reprovado<br>
+
+10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.<br>
+
+digite salario atual<br>
+se o salario for < = 500<br>
+acrescentar 20%<br>
+se o salario for > 500<br>
+acrescentar 10%<br>
