@@ -84,6 +84,18 @@ desligar o pisca<br>
 ir embora.<br>
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+Entro no banco
+verifico se tem fila
+se tive entro na fila
+aguardo minha vez
+se não vou até o caixa vazio
+clico na tela
+coloco digital
+escolho minha opção
+digito a senha
+aguardo
+pego dinheiro
+operação finalizada
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 Professor senta na mesa<br>
@@ -113,7 +125,7 @@ morto abaixa<br>
 quem errar sai da brincadeira<br>
 o ultimo que restar vence.<br>
 
-7. Faça um algoritmo que some três números.
+7. Faça um algoritmo que some três números.<br>
 informe primeiro numero<br>
 informe o segundo numero<br>
 informe o 3 numero<br>
@@ -121,8 +133,30 @@ pegue o primeiro + segundo + terceiro numero<br>
 somar<br>
 resultado<br>
 
-8. Faça um algoritmo que descubra se um número é par ou ímpar.
+8. Faça um algoritmo que descubra se um número é par ou ímpar.<br>
 
-9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+digite um numero<br>
+divida o numero por 2<br>
+se o resto da divisão for 0 <br>
+escreva par<br>
+se o resto da divisão for diferente de 0<br>
+escreva impar <b>
 
-10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.<br>
+
+armazenar nota 1<br>
+armazenar nota 2<br>
+somar as notas<br>
+mostrar resultado da soma<br>
+dividir o resultado da soma por 2<br>
+mostrar o resultado<br>
+se o valor do resultado foi maior ou igual a 5 aprovado<br>
+senão reprovado<br>
+
+10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.<br>
+
+digite salario atual<br>
+se o salario for < = 500<br>
+acrescentar 20%<br>
+se o salario for > 500<br>
+acrescentar 10%<br>
