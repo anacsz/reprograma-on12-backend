@@ -83,6 +83,18 @@ desligar o pisca<br>
 ir embora.<br>
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+Entro no banco
+verifico se tem fila
+se tive entro na fila
+aguardo minha vez
+se não vou até o caixa vazio
+clico na tela
+coloco digital
+escolho minha opção
+digito a senha
+aguardo
+pego dinheiro
+operação finalizada
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 Professor senta na mesa<br>
